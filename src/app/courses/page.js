@@ -16,7 +16,7 @@ import PageHero from "@/components/common/PageHero";
 import CourseGrid from "@/components/courses/CourseGrid";
 
 export const metadata = {
-  title: "Courses & Professional Training | DevCreatex/Traning Institue",
+  title: "Courses & Professional Training | DevCreatex/Traning Institute",
   description:
     "Learn practical digital skills through DevCreatex Traning Institute with structured courses in full stack development, AI automation, video editing and graphic design.",
 };
