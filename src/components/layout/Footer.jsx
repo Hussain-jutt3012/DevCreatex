@@ -181,7 +181,7 @@ export default function Footer() {
 
               {/* Pakistan Phone */}
               <a
-                href="tel:+924235780001"
+                href="tel:+923209999345"
                 className="group flex items-start gap-3"
               >
                 <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-indigo-500/[0.07] text-indigo-500 transition-colors duration-300 group-hover:bg-indigo-500/10 dark:text-indigo-400">
@@ -191,7 +191,7 @@ export default function Footer() {
                 <div>
 
                   <span className="mt-0.5 block text-xs font-medium text-slate-600 transition-colors duration-300 group-hover:text-indigo-500 dark:text-slate-300 dark:group-hover:text-indigo-400 sm:text-sm">
-                    +92 42 3578 0001
+                     +92 320 999 9345
                   </span>
                 </div>
               </a>
