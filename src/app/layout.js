@@ -36,6 +36,11 @@ export const metadata = {
   creator: "DevCreatex",
   publisher: "DevCreatex",
 
+
+  verification: {
+    google: "QtjSGJ6TeVNucty1iAEGgUG0_t8JnECcrLue-Hz-QEU",
+  },
+
   keywords: [
     "DevCreatex",
     "Dev Createx",
