@@ -5,7 +5,6 @@ import { motion } from "framer-motion";
 import {
   ArrowRight,
   ArrowUpRight,
-  Sparkles,
   Code2,
   BrainCircuit,
   CloudCog,
@@ -32,7 +31,6 @@ export default function Hero() {
           >
             {/* Eyebrow */}
             <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-indigo-500/15 bg-indigo-500/[0.06] px-3 py-1.5">
-              <Sparkles size={14} className="text-indigo-500" />
 
               <span className="text-[11px] font-semibold uppercase tracking-[0.18em] text-indigo-600 dark:text-indigo-400">
                 Digital Engineering Company

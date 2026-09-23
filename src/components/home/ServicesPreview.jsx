@@ -12,7 +12,6 @@ import {
   ShieldCheck,
   ArrowUpRight,
   CheckCircle2,
-  Sparkles,
 } from "lucide-react";
 
 const items = [
@@ -126,7 +125,6 @@ export default function ServicesPreview() {
           >
             <span className="eyebrow">WHAT WE DO</span>
 
-            <Sparkles size={15} className="text-indigo-400" />
           </motion.div>
 
           <div className="mt-4 flex flex-col gap-6 md:flex-row md:items-end md:justify-between">

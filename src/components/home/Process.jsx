@@ -8,7 +8,6 @@ import {
   Rocket,
   ArrowRight,
   CheckCircle2,
-  Sparkles,
 } from "lucide-react";
 
 const steps = [
@@ -104,11 +103,6 @@ export default function Process() {
             <span className="eyebrow">
               OUR PROCESS
             </span>
-
-            <Sparkles
-              size={15}
-              className="text-indigo-400"
-            />
           </motion.div>
 
           <motion.h2

@@ -10,7 +10,6 @@ import {
   Code2,
   Film,
   Palette,
-  Sparkles,
   Clock3,
   BarChart3,
 } from "lucide-react";
@@ -113,11 +112,6 @@ export default function CoursesPreview() {
               <span className="eyebrow">
                 DevCreatex Traning Institue
               </span>
-
-              <Sparkles
-                size={15}
-                className="text-indigo-400"
-              />
             </motion.div>
 
             <motion.h2

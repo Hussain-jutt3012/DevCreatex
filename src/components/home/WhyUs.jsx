@@ -8,7 +8,6 @@ import {
   Gauge,
   Layers3,
   ShieldCheck,
-  Sparkles,
   Target,
   Users,
   Zap,
@@ -97,11 +96,6 @@ export default function WhyUs() {
               <span className="eyebrow">
                 WHY DevCreatex
               </span>
-
-              <Sparkles
-                size={15}
-                className="text-indigo-400"
-              />
             </motion.div>
 
             <motion.h2

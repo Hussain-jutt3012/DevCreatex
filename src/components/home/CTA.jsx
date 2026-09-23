@@ -6,7 +6,6 @@ import {
   CalendarDays,
   CheckCircle2,
   MessageCircle,
-  Sparkles,
   Zap,
 } from "lucide-react";
 
@@ -134,11 +133,6 @@ export default function CTA() {
               <span className="text-[10px] font-bold tracking-[0.2em] text-indigo-100/75 sm:text-xs">
                 LET&apos;S WORK TOGETHER
               </span>
-
-              <Sparkles
-                size={13}
-                className="text-cyan-200"
-              />
             </motion.div>
 
             {/* Heading */}
@@ -289,52 +283,6 @@ export default function CTA() {
                 sm:flex-row
               "
             >
-              <a
-                href="/contact"
-                className="
-                  group
-                  inline-flex
-                  w-full
-                  items-center
-                  justify-center
-                  gap-2
-                  rounded-xl
-                  bg-white
-                  px-5
-                  py-3
-                  text-xs
-                  font-semibold
-                  text-slate-950
-                  shadow-lg
-                  shadow-black/10
-                  transition-all
-                  duration-300
-                  hover:-translate-y-0.5
-                  hover:shadow-xl
-                  hover:shadow-black/20
-                  sm:w-auto
-                  sm:px-6
-                  sm:py-3.5
-                  sm:text-sm
-                "
-              >
-                <CalendarDays
-                  size={16}
-                  className="text-indigo-600"
-                />
-
-                Schedule a Meeting
-
-                <ArrowRight
-                  size={15}
-                  className="
-                    text-indigo-600
-                    transition-transform
-                    duration-300
-                    group-hover:translate-x-1
-                  "
-                />
-              </a>
 
               <a
                 href="/contact"
